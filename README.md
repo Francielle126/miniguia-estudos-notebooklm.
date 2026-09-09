@@ -9,7 +9,7 @@ Este repositório reúne os estudos desenvolvidos a partir do NotebookLM utiliza
 Antigo.pdf) — Documento principal utilizado para a extração de dados e conceitos no NotebookLM.
 
 ##  Engenharia de Prompts e "Cicatrizes" (Troubleshooting)
-* **Prompt Utilizado:** "Com base no documento, resuma os principais marcos e conceitos apresentados."
+* **Prompt Utilizado:** "Atue um cérebro baseado na historia do Egito antigo."
 * **Desafio Encontrado:** A IA gerou uma resposta muito genérica sem focar nos detalhes específicos do relatório.
 * **Solução:** Ajustei o prompt solicitando que a IA citasse trechos específicos do arquivo para garantir precisão técnica.
 
